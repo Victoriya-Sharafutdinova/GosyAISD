@@ -51,10 +51,6 @@
     <Compile Include="DoublyLinkedList.cs" />
     <Compile Include="DoublyNode.cs" />
     <Compile Include="Graph.cs" />
-    <Compile Include="GraphEdge.cs" />
-    <Compile Include="GraphExam.cs" />
-    <Compile Include="GraphMatrix.cs" />
-    <Compile Include="GraphVertex.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
